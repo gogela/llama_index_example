@@ -1,0 +1,9 @@
+llama-index-llms-nvidia 
+llama-index-embeddings-nvidia 
+llama-index-readers-file 
+llama-index-embeddings-openai
+llama-index-embeddings-huggingface
+pypdf
+Flask
+Flask-Cors
+langchain
